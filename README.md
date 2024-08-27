@@ -1,1 +1,1 @@
-# Sabareeshkanna
+I’m Sabareeshkanna M, a B.Tech student specializing in Artificial Intelligence and Data Science. My passion lies in Data Science, Machine Learning, and AI, where I leverage data to drive innovation and make a significant impact. I excel in data analysis, extracting insights, and predictive modeling, and I am dedicated to exploring and creating intelligent systems that address real-world challenges. My goal is to harness the power of data to contribute to advancements in technology and improve decision-making processes.
